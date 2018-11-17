@@ -7,7 +7,7 @@ public class DayCounter {
 
     }
 
-    static int countDays(int month, int year){
+     static int countDays(int month, int year){
         int count = -1;
 
         switch(month){
