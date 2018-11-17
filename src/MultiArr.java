@@ -11,7 +11,7 @@ public class MultiArr {
         array[2] = array[1];
 
         array[0].x = 50;
-        array[0].y = 100;
+        array[0].y = 10;
 
         System.out.println(array[0]);
         System.out.println(array[1]);
